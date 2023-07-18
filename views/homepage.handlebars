@@ -1,0 +1,24 @@
+<!-- Loop over each object in the books array -->
+{{log books}}
+{{#each books as |book| }}
+<div class="row mb-4 book">
+  <div class="col-md-5">
+    <h2>
+      <!-- Call helper function with triple brackets to render the emoji span as HTML -->
+      
+      <a href="/book/{{book.id}}">{{book.title}}</a>
+    </h2>
+    {{!-- <p>
+      <!-- Pass needed_funding value to the helper function -->
+      <p class="genre">{{book.genre}}</p>
+    
+    </p> --}}
+    <p>Author: {{book.author}}</p>
+  </div>
+  <div class="col-md-7">
+    <p>
+      {{book.description}}
+    </p>
+  </div>
+</div>
+{{/each}}

@@ -1,0 +1,3 @@
+-- Active: 1688057078476@@127.0.0.1@3306@books_db
+DROP DATABASE IF EXISTS books_db;
+CREATE DATABASE books_db;

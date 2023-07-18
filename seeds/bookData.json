@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Master and Margarita",
+    "description": "The story concerns a visit by the devil and his entourage to the officially atheistic Soviet Union. The devil, manifested as one Professor Woland, challenges the Soviet citizens' beliefs towards religion and condemns their behavior throughout the book.",
+    "genre": "Novel",
+    "author": "Mikhail Bulgakov"
+  },
+  {
+    "title": "The Metamorphosis",
+    "description": "The Metamorphosis is about Gregor Samsa, a traveling salesman who wakes up one day to find that he has transformed into a giant insect. His family is disgusted with him, especially when he is no longer able to earn income.",
+    "genre": "Novel",
+    "author": "Franz Kafka"
+  },
+  {
+    "title": "The Red and the Black",
+    "description": "Tells the story of Julien Sorel's life in France's rigid social structure restored after the disruptions of the French Revolution and the reign of Napoleon Bonaparte.",
+    "genre": "Novel",
+    "author": "Henri Beyle Stendhal"
+  }
+]
